@@ -7,7 +7,7 @@ const Hero: React.FC = () => {
       <div className="flex flex-col items-center">
         <h2 className="text-5xl mb-4">Welcome to Kofa.ai</h2>
         <p className="text-xl mb-8">
-          Empowering informed decision-making with advanced AI solutions. Introducing 'woke' AI for a better future.
+          Empowering informed decision-making with advanced AI solutions. Introducing &apos;woke&apos; AI for a better future.
         </p>
         <div className="relative w-full max-w-md">
           <Image
